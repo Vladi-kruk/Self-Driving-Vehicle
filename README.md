@@ -1,1 +1,3 @@
-# Self-Driving-Vehicle Project that provide Vehicle self driving that can avoiding any obstacles 
+# Self-Driving-Vehicle Project 
+Allows the vehicle to travel alone any place and overtake any obstacle
+Electrical Practical Engineer Project
